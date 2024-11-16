@@ -32,3 +32,8 @@ function square(number) {
 console.log(square(2));
 
 console.log(7)
+
+let h = 111;
+let g = 211;
+let object = h * g;
+console.log(object);
