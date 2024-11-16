@@ -37,3 +37,17 @@ let h = 111;
 let g = 211;
 let object = h * g;
 console.log(object);
+
+alert('Hello World!')
+undefined
+let fx = 'amazing'
+undefined
+if (fx === 'amazing') alert('javaScript is FUN!') 
+undefined
+fx = 'boring'
+'boring'
+if (fx === 'amazing') alert('javaScript is FUN!')
+undefined
+34+34+76-56
+88
+
