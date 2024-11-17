@@ -40,14 +40,22 @@ console.log(object);
 
 alert('Hello World!')
 undefined
-let fx = 'amazing'
+let fx = 'awesome'
 undefined
-if (fx === 'amazing') alert('javaScript is FUN!') 
+if (fx === 'awesome') alert('javaScript is FUN!') 
 undefined
 fx = 'boring'
 'boring'
-if (fx === 'amazing') alert('javaScript is FUN!')
+if (fx === 'awesome') alert('javaScript is FUN!')
 undefined
 34+34+76-56
 88
 
+
+console.log('Jonas');
+
+let firstName = 'messi';
+console.log(firstName);
+console.log(firstName);
+console.log(firstName);
+console.log(firstName);
