@@ -1,13 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <script src="index.js"></script>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>javascript fundamentals</title>
+    <title>HTML CSS REVIEW</title>
+    <style>
+      /*
+      this is a comment*/
+      .red-button {
+        background-color: red;
+        color: white;
+        border: none;
+      }
+      .yellow-button {
+        background-color: yellow;
+      }
+    </style>
   </head>
   <body>
-    <h1>hello world</h1>
-    <p>Lorem, ipsum.</p>
+    <button
+      title="good job !"
+      class="red-button"
+      onclick="
+      alert('good job');
+      "
+    >
+      Hello
+    </button>
+
+    <p>Lorem, ipsum <button class="yellow-button">hello</button>dolor.</p>
+
+    <script>
+      //this is a comment.
+      // this code creates a popup.
+      // alert("hello");
+      /*multi
+      line
+      comment
+
+      
+      */
+      console.log(2 + 2);
+      console.log("some" + "text");
+    </script>
   </body>
 </html>
