@@ -60,3 +60,4 @@ console.log(firstName);
 console.log(firstName);
 console.log(firstName);
 console.log('hello')
+console.log('hi')
